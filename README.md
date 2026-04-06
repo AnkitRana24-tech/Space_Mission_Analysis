@@ -23,3 +23,14 @@ This project focuses on analyzing a Space Missions dataset using data analytics,
 
 ---
 
+**📊 Project Workflow**   
+**1. Data Preprocessing:**   
+- Data cleaning and handling missing values   
+- Feature selection and transformation
+   
+**2. Exploratory Data Analysis (EDA):**   
+- Trend analysis of space missions   
+- Visualization of launches, success rates, and agencies
+
+---
+
