@@ -32,5 +32,26 @@ This project focuses on analyzing a Space Missions dataset using data analytics,
 - Trend analysis of space missions   
 - Visualization of launches, success rates, and agencies
 
+**3. Machine Learning Models**   
+Implemented and compared multiple models such as:   
+- Random Forest Classifier   
+- Logistic Regression    
+- K-Nearest Neighbor(KNN) Classifier    
+- Support Vector Machine(SVM) Classifier
+
+**4. Model Evaluation**      
+- Accuracy comparison   
+- Confusion matrix   
+- Performance visualization
+
+**5. Power BI Dashboard**   
+Built interactive dashboard with key KPIs:   
+- Total Missions   
+- Success Rate   
+- Failed Missions   
+- Missions by Country/Agency
+
+
+
 ---
 
