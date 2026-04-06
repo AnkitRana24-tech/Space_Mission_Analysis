@@ -7,11 +7,11 @@ This project focuses on analyzing a Space Missions dataset using data analytics,
 ---
 
 **🎯 Objectives**   
-Perform exploratory data analysis (EDA) on space mission data.   
-Build and compare multiple machine learning models.   
-Evaluate models based on performance metrics.   
-Visualize key insights using an interactive Power BI dashboard.   
-Present results through KPI-driven storytelling.   
+- Perform exploratory data analysis (EDA) on space mission data.   
+- Build and compare multiple machine learning models.   
+- Evaluate models based on performance metrics.   
+- Visualize key insights using an interactive Power BI dashboard.   
+- Present results through KPI-driven storytelling.   
 
 ---
 
