@@ -66,3 +66,6 @@ Built interactive dashboard with key KPIs:
 ├── powerbi/                   # Power BI dashboard file (.pbix)      
 ├── images/                    # Dashboard screenshots      
 ├── README.md                  # Project documentation      
+
+---
+
