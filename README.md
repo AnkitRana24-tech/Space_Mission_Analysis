@@ -51,7 +51,12 @@ Built interactive dashboard with key KPIs:
 - Failed Missions   
 - Missions by Country/Agency
 
+---
 
+**📈 Key Insights**   
+- Identified patterns in mission success rates   
+- Compared model performances to select the best algorithm   
+- Provided data-driven insights through dashboard visualization
 
 ---
 
