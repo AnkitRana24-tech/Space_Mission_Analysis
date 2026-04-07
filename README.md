@@ -60,3 +60,9 @@ Built interactive dashboard with key KPIs:
 
 ---
 
+**📂 Project Structure**   
+├── data/                      # Dataset files     
+├── notebooks/                 # Jupyter Notebook (ML models & analysis)      
+├── powerbi/                   # Power BI dashboard file (.pbix)      
+├── images/                    # Dashboard screenshots      
+├── README.md                  # Project documentation      
