@@ -69,3 +69,5 @@ Built interactive dashboard with key KPIs:
 
 ---
 
+**📸 Dashboard Preview**    
+<img width="1880" height="895" alt="Screenshot 2026-04-07 214951" src="https://github.com/user-attachments/assets/3655ba5a-6501-4c1e-b744-906222807993" />
