@@ -75,3 +75,10 @@ Built interactive dashboard with key KPIs:
 
 ---
 
+**💡 Future Improvements**   
+- Deploy ML model using Flask/FastAPI    
+- Integrate real-time space mission data     
+- Enhance dashboard with advanced analytics
+
+---
+
