@@ -17,7 +17,7 @@
 
 **🛠️ Tech Stack**   
 **Programming Language:** Python   
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn   
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.   
 **Environment:** Jupyter Notebook   
 **Visualization Tool:** Power BI   
 
