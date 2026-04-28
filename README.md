@@ -30,7 +30,7 @@
    
 **2. Exploratory Data Analysis (EDA):**   
 - Trend analysis of space missions   
-- Visualization of launches, success rates, and agencies
+- Visualization of launches, success rates, and agencies.
 
 **3. Machine Learning Models**   
 Implemented and compared multiple models such as:   
